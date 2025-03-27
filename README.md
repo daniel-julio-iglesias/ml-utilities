@@ -89,17 +89,17 @@ Projects utilize real-world open datasets, including:
 
 **1. Clone the repository:**
 
-git clone https://github.com/daniel-julio-iglesias/ml-utilities.git
-cd ml-utilities
+    git clone https://github.com/daniel-julio-iglesias/ml-utilities.git
+    cd ml-utilities
 
 **2. Create & Activate Python environment:**
 
-conda create -n ml-utilities python=3.10
-conda activate ml-utilities
+    conda create -n ml-utilities python=3.10
+    conda activate ml-utilities
 
 **3. Install dependencies:**
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 **4. Run Notebooks or Deployments:**
 

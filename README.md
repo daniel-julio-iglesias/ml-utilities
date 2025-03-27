@@ -100,6 +100,7 @@ Projects utilize real-world open datasets, including:
 **3. Install dependencies:**
 
     pip install -r requirements.txt
+    conda env create -f environment.yml
 
 **4. Run Notebooks or Deployments:**
 

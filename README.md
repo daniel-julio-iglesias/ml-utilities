@@ -88,6 +88,47 @@ Projects utilize real-world open datasets, including:
 ### Step-by-step instructions:
 
 **1. Clone the repository:**
-```bash
+
 git clone https://github.com/daniel-julio-iglesias/ml-utilities.git
 cd ml-utilities
+
+**2. Create & Activate Python environment:**
+
+conda create -n ml-utilities python=3.10
+conda activate ml-utilities
+
+**3. Install dependencies:**
+
+pip install -r requirements.txt
+
+**4. Run Notebooks or Deployments:**
+
+    Notebooks: Open notebooks/*.ipynb with Jupyter Notebook.
+
+    APIs/Dashboards: Navigate to deployment folder for specific instructions.
+
+## 📈 Future Roadmap
+
+Upcoming features include:
+
+    ML models integration with CI/CD pipelines (Jenkins/Katalon Studio).
+
+    Interactive analytics dashboards (Streamlit/Dash).
+
+    Containerization (Docker/Kubernetes) for scalable deployments.
+
+    NLP applications for utility customer service.
+
+## 🤝 Connect & Collaborate
+
+Open for collaboration and discussion:
+
+    📧 Email: daniel.julio.iglesias@gmail.com
+
+    🌐 LinkedIn: Daniel Julio Iglesias
+
+Feel free to reach out!
+
+## ⚖️ License
+
+    Distributed under the MIT License. See LICENSE file for more information.

@@ -19,17 +19,17 @@ Leveraging my extensive background in utilities (CIS, Billing, Smart Metering, E
 
 ## 📌 Repository Structure
 
-daniel-iglesias-ml-utilities/
-├── projects/
-│   ├── energy_consumption_forecasting/   # Regression models for forecasting
-│   ├── utility_fraud_detection/          # Classification models (fraud detection)
-│   ├── anomaly_detection/                # Clustering & unsupervised learning
-│   └── energy_demand_forecasting/        # Time series & LSTM models
-├── notebooks/                            # Well-documented Jupyter notebooks
-├── datasets/                             # Datasets used for analysis & models
-├── visualizations/                       # Charts, graphs, and insights
-├── deployment/                           # ML deployment (Flask, Streamlit)
-└── README.md                             # This file (overview, documentation)
+    daniel-iglesias-ml-utilities/
+    ├── projects/
+    │   ├── energy_consumption_forecasting/   # Regression models for forecasting
+    │   ├── utility_fraud_detection/          # Classification models (fraud detection)
+    │   ├── anomaly_detection/                # Clustering & unsupervised learning
+    │   └── energy_demand_forecasting/        # Time series & LSTM models
+    ├── notebooks/                            # Well-documented Jupyter notebooks
+    ├── datasets/                             # Datasets used for analysis & models
+    ├── visualizations/                       # Charts, graphs, and insights
+    ├── deployment/                           # ML deployment (Flask, Streamlit)
+    └── README.md                             # This file (overview, documentation)
 
 
 ---
@@ -103,29 +103,29 @@ pip install -r requirements.txt
 
 **4. Run Notebooks or Deployments:**
 
-    Notebooks: Open notebooks/*.ipynb with Jupyter Notebook.
+Notebooks: Open notebooks/*.ipynb with Jupyter Notebook.
 
-    APIs/Dashboards: Navigate to deployment folder for specific instructions.
+APIs/Dashboards: Navigate to deployment folder for specific instructions.
 
 ## 📈 Future Roadmap
 
 Upcoming features include:
 
-    ML models integration with CI/CD pipelines (Jenkins/Katalon Studio).
+ML models integration with CI/CD pipelines (Jenkins/Katalon Studio).
 
-    Interactive analytics dashboards (Streamlit/Dash).
+Interactive analytics dashboards (Streamlit/Dash).
 
-    Containerization (Docker/Kubernetes) for scalable deployments.
+Containerization (Docker/Kubernetes) for scalable deployments.
 
-    NLP applications for utility customer service.
+NLP applications for utility customer service.
 
 ## 🤝 Connect & Collaborate
 
 Open for collaboration and discussion:
 
-    📧 Email: daniel.julio.iglesias@gmail.com
+📧 Email: daniel.julio.iglesias@gmail.com
 
-    🌐 LinkedIn: Daniel Julio Iglesias
+🌐 LinkedIn: Daniel Julio Iglesias
 
 Feel free to reach out!
 

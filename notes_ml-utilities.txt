@@ -1,0 +1,65 @@
+==================================
+#
+# To activate this environment, use
+#
+#     $ conda activate ml-utilities
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+==================================
+
+conda install numpy pandas matplotlib seaborn jupyter
+
+
+==================================
+
+conda install scikit-learn xgboost
+
+
+==================================
+Create a snapshot of your current Conda environment — including all dependencies — in a YAML file.
+
+conda env export > environment.yml
+
+
+==================================
+1. Create a New Conda Environment
+conda env create -f environment.yml
+
+
+==================================
+
+
+
+==================================
+
+
+
+==================================
+
+
+==================================
+
+
+
+==================================
+
+
+
+==================================
+
+
+
+==================================
+
+
+
+==================================
+
+
+
+==================================
+
+

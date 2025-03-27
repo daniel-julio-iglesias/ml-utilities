@@ -172,3 +172,88 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# =============================
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =============================
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# =============================
+# VSCode / PyCharm / JetBrains
+.vscode/
+.idea/
+
+# =============================
+# MacOS / Windows
+.DS_Store
+Thumbs.db
+
+# =============================
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.conda/
+*.env
+*.venv
+
+# =============================
+# Anaconda
+*.conda
+*.ipynb-meta
+*.lock
+*.log
+*.bak
+*.tmp
+conda-meta/
+*.tar.bz2
+
+# =============================
+# PIP & Conda package caches
+pip-selfcheck.json
+__pypackages__/
+*.egg-info/
+.eggs/
+*.egg
+
+# =============================
+# Jupyter runtime files
+*.sqlite
+*.nbconvert.ipynb
+*.checkpoint
+*.nbconvert.log
+*.nb.html
+*.nb.json
+
+# =============================
+# Python environments (optional)
+*.pkl
+*.h5
+*.hdf5
+
+# =============================
+# Build artifacts
+build/
+dist/
+*.so
+*.o
+*.a
+*.out
+
+# =============================
+# Coverage/test artifacts
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# =============================
+# MyPy / Pylint / other lints
+.mypy_cache/
+.pylint.d/

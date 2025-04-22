@@ -1,3 +1,8 @@
+# Bio
+25+ years in CIS, MDM, billing, and automation for global utilities. Strong background in Oracle, Python, SQL, and integration frameworks.
+Exploring real-world AI/ML use cases in smart meter analytics, demand forecasting, and predictive maintenance using Python (pandas, Scikit-Learn, TensorFlow).
+GitHub portfolio in progress — AI-powered tools for utilities, built from the field up.
+
 # ml-utilities
 AI/ML Projects in Utilities: Predictive Analytics, Energy Demand Forecasting, Fraud Detection, and Anomaly Detection leveraging Python (Scikit-Learn, XGBoost, TensorFlow, Keras), Flask, Streamlit, and automation tools.
 
